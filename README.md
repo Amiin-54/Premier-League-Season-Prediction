@@ -49,7 +49,7 @@ Can information available *before* a season starts predict match results, goals 
 Possible extensions: in-season updating of team strength, a hierarchical Bayesian model and rolling validation across several seasons.
 
 ## Repository contents
-- `premier_league_prediction.ipynb`: full analysis (data preparation, EDA, feature engineering, models, simulations)
+- `Premier League Prediction.ipynb`: full analysis (data preparation, EDA, feature engineering, models, simulations)
 - `Comparison of Machine Learning, Standard and Bayesian Poisson.pdf`: full dissertation report
 
 ## How to run
