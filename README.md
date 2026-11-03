@@ -11,7 +11,7 @@ Can information available *before* a season starts predict match results, goals 
 - Source: [Football-Data](https://football-data.co.uk/englandm.php), 6,460 Premier League matches from 2009/10 to 2025/26
 - Chronological split: training 2010/11 to 2023/24 (5,320 matches), validation 2024/25 (380), final test 2025/26 (380)
 - Final models were refitted on training plus validation data (5,700 matches) before testing
-- The CSV files are not included in this repo; download them from Football-Data
+- The CSV files are included in this repo; renamed them from Football-Data to make it accessible
 
 ## Method
 - **Features:** previous-season points, goals scored and conceded, shots on target for and against (all per game), league position, preseason Elo rating and a promoted-team flag, for both the home and away team (16 predictors). Everything is built from information available before the season starts, to avoid data leakage.
