@@ -50,7 +50,7 @@ Possible extensions: in-season updating of team strength, a hierarchical Bayesia
 
 ## Repository contents
 - `premier_league_prediction.ipynb`: full analysis (data preparation, EDA, feature engineering, models, simulations)
-- `dissertation_report.pdf`: full dissertation report
+- `Comparison of Machine Learning, Standard and Bayesian Poisson.pdf`: full dissertation report
 
 ## How to run
 1. Download the season CSVs from Football-Data and update the file paths in the notebook's data-loading cell.
