@@ -42,7 +42,7 @@ Can information available *before* a season starts predict match results, goals 
 
 ## Limitations and future work
 - Predictors are fixed at the start of the season, so the models cannot react to form, injuries or transfers
-- Home and away goals are assumed conditionally independent (no Dixon-Coles adjustment)
+- Home and away goals are assumed conditionally independent
 - The Bayesian model is feature-based rather than hierarchical
 - Model selection and testing each used a single season
 
