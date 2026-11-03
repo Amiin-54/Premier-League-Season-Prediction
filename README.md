@@ -62,4 +62,3 @@ Python, pandas, NumPy, SciPy, scikit-learn, PyMC, ArviZ, matplotlib, seaborn
 
 ## Author
 Mohamed-Amin Abdullahi, MSc Data Analytics, Queen Mary University of London
-[add your LinkedIn link here]
